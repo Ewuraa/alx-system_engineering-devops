@@ -1,1 +1,1 @@
-Alias variables and expansions
+Variables and Expansions
